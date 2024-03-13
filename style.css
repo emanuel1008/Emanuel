@@ -1,11 +1,15 @@
-body  { 
+* {
+    margin: 0;
+    padding: 0;
+}
+header{ 
 background-color:#383D58;
 color:white;    
 }
-.cabecalho{
+.cabecalho-imagem{
     width: 20%;
 }
-.cabecalho imagens {
+.cabecalho{
     background-color:#383D58;
     color:white;
     display:flex;
@@ -13,13 +17,12 @@ color:white;
     padding: 24px 0;
 }
 .cabecalho-lista-item{
-    display: inline-block;
-    margin: 0 16px;
+        display: inline-block;
     margin: 0 16px;
     padding: 24px 0;
     font-size: 24px;
 }
-* {
-    margin: 0;
-    padding: 0;
-}
+<img class="escola-imagem"src=
+.escola-imagem{
+    width:25%;
+    }
